@@ -11,3 +11,6 @@ This code requires the following:
 # Running the Code
 * cd Code
 * Execute python main.py to run the code.
+
+# Contact
+If you have any suggestions or questions, please email me at 23b903044@stu.hit.edu.cn
